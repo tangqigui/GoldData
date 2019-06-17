@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="name">
+        <item>沪金9999</item>
+        <item>黄金995</item>
+        <item>黄金延期</item>
+        <item>延期单金</item>
+        <item>延期双金</item>
+        <item>沪金100G</item>
+        <item>沪 条50G</item>
+        <item>沪  金95</item>
+        <item>沪  金99</item>
+        <item>I黄金100G</item>
+        <item>I黄金995</item>
+        <item>I黄金9999</item>
+        <item>M黄金延期</item>
+        <item>沪  铂95</item>
+    </string-array>
+</resources>
